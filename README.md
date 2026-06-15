@@ -9,7 +9,7 @@
 
 ---
 <br>
-⚙️ 개발 환경 : eclipse, tomcat, github <br>
+⚙️ 개발 환경 : eclipse, tomcat, git, mybatis, spring <br>
 💻 개발 언어 : oracle, java, javascript, css <br>
 📜 프로젝트 설명 : <br> <br>
 
