@@ -2,10 +2,11 @@
 
 
 ---
-📑 PPT 바로보기 : https://github.com/rkawk775/JOPOP-Web/blob/main/JOPOP_compressed.pdf
+
 
 [![PPT](https://github.com/user-attachments/assets/f9aa1eed-2625-4299-b449-187e200049ee)](https://github.com/rkawk775/JOPOP-Web/blob/main/JOPOP_compressed.pdf)
 
+📑 PPT 바로보기 : https://github.com/rkawk775/JOPOP-Web/blob/main/JOPOP_compressed.pdf
 
 ---
 <br>
