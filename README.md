@@ -1,4 +1,12 @@
 ### 🍀 JOPOP-Web
+
+
+---
+📑 PPT 바로보기 : https://github.com/rkawk775/JOPOP-Web/blob/main/JOPOP_compressed.pdf
+
+[![PPT](https://github.com/user-attachments/assets/f9aa1eed-2625-4299-b449-187e200049ee)](https://github.com/rkawk775/JOPOP-Web/blob/main/JOPOP_compressed.pdf)
+
+
 ---
 <br>
 ⚙️ 개발 환경 : eclipse, tomcat, github <br>
@@ -17,8 +25,3 @@
 팝업 상세 페이지는 상세 정보, 위치 지도, 후기 조회, 찜하기, 예약 및 결제 페이지 이동 기능을 제공하여 사용자가 팝업 탐색부터 방문 예약까지 자연스럽게 이어질 수 있도록 설계하였다.
 
 <br>
-
----
-📑 PPT 바로보기 : https://github.com/rkawk775/JOPOP-Web/blob/main/JOPOP_compressed.pdf
-
-[![PPT](https://github.com/user-attachments/assets/f9aa1eed-2625-4299-b449-187e200049ee)](https://github.com/rkawk775/JOPOP-Web/blob/main/JOPOP_compressed.pdf)
